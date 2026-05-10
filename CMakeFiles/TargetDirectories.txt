@@ -1,5 +1,0 @@
-/home/korneploddviktor/test_task/CMakeFiles/List.dir
-/home/korneploddviktor/test_task/CMakeFiles/main.dir
-/home/korneploddviktor/test_task/CMakeFiles/run.dir
-/home/korneploddviktor/test_task/CMakeFiles/edit_cache.dir
-/home/korneploddviktor/test_task/CMakeFiles/rebuild_cache.dir
